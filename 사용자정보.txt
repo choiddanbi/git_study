@@ -1,2 +1,3 @@
 username : choiddanbi
 email : ddannbb@naver.com
+이름 : 최단비
